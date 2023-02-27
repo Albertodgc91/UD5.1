@@ -19,4 +19,33 @@
 <año>1993</año>
 </DatosT>
 
+<serie>How i met your mother</serie>
+<temporadas>9</temporadas>
+<DatosT>
+<temamusical nombre=" Hey Beautiful" />
+<cadena nombre="HBOMAX" />
+<pais nombre="Estados unidos" />
+<año>2005</año>
+</DatosT>
+
+<serie>the witcher</serie>
+<temporadas>2</temporadas>
+<DatosT>
+<temamusical nombre="sound of the witcher" />
+<cadena nombre="Netflix" />
+<pais nombre="Estados unidos" />
+<año>2019</año>
+</DatosT>
+
+
+<serie>the strain</serie>
+<temporadas>4</temporadas>
+<DatosT>
+<temamusical nombre="the strain main theme" />
+<cadena nombre="Disneyplus" />
+<pais nombre="Estados unidos" />
+<año>2014</año>
+</DatosT>
+
+
 </series>
