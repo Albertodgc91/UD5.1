@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<series>
+<serie>Friends</serie>
+<temporadas>10</temporadas>
+<DatosT>
+<temamusical nombre="I'll Be There for You" />
+<cadena nombre="HBOMAX" />
+<pais nombre="Estados unidos" />
+<año>1994</año>
+</DatosT>
+
+<serie>Fraiser</serie>
+<temporadas>23</temporadas>
+<DatosT>
+<temamusical nombre=" Tossed Salads and Scrambled Eggs" />
+<cadena nombre="HBOMAX" />
+<pais nombre="Estados unidos" />
+<año>1993</año>
+</DatosT>
+
+</series>
