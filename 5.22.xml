@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTf-8"?>
+<grupos>
+    <grupo>
+  <nombre>my chelmical romace</nombre>
+  <lugardeorigen>
+    <pais>USA</pais>
+  </lugardeorigen>
+  <discos>
+   <primer>three cheers for sweet revenge</primer>
+   <segundo>The black parade</segundo>
+   <tercero>danger days: the true lives of the fabulous killjoys</tercero>
+  </discos>
+  <descripcion> 
+  banda de culto d elos principios del 00`</descripcion>
+  <genero>
+    <genero tipo="Punk" nivel="alto"/>    
+  </genero>
+</genero>
+
+<grupos>
+    <grupo>
+  <nombre>nirvana</nombre>
+  <lugardeorigen>
+    <pais>USA</pais>
+  </lugardeorigen>
+  <discos>
+   <primer>nevermind</primer>
+   <segundo>in ultero</segundo>
+   <tercero>bleach</tercero>
+  </discos>
+  <descripcion> 
+  banda de culto de los principios del 90`</descripcion>
+  <genero>
+    <genero tipo="Gruons" nivel="alto"/>    
+  </genero>
+</genero>
+</grupo>  //grupo[@genero='rock']

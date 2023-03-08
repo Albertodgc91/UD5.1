@@ -1,0 +1,8 @@
+5.25 for $a in doc("datos.xml")//modelo
+return $a
+
+5.26 for $a in doc("datos.xml")//modelo
+where $a/@velocidad>"1000" 
+order by $a/"modelo
+return data($a/@pais)
+

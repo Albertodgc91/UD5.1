@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTf-8"?>
+<paises>
+    <pais>
+  <nombre>USA</nombre>
+  <continente>
+    <lugar>Norte amarica</lugar>
+  </continente>
+  <idioma>
+   <primer>ingles</primer>
+   </idioma>
+  <descripcion> 
+  pais basado en el capitalismo</descripcion>
+  <poblacion>
+    <poblacion numero="333.287.557"/>    
+  </poblacion>
+    </pais>
+ 
+    <paises>
+        <pais>
+      <nombre>Francia</nombre>
+      <continente>
+        <lugar>europa</lugar>
+      </continente>
+      <idioma>
+       <primer>Frances</primer>
+      </idioma>
+      <descripcion> 
+      pais famoso por su cruasant`</descripcion>
+      <poblacion>
+        <poblacion  tipo="67.750.000"/>    
+      </poblacion>
+        </pais>
+        </paises>
+        5.22 //pais[@poblacion=>10.000.000]
+        5.23 //pais[@poblacion=<10.000.000]

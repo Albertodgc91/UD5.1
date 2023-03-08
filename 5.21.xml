@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTf-8"?>
+<Recetas>
+    <receta>
+  <nombre>tortilla</nombre>
+  <lugardeorigen>
+    <pais>España</pais>
+  </lugardeorigen>
+  <ingredientes>
+   <primer>Huevo</primer>
+   <segundo>patatas</segundo>
+   <tercero>cebolla </tercero>
+  </ingredientes>
+  <descripcion> 
+  mezclar las patatas cocidas con el huevo y luego freir</descripcion>
+  <dificultad>
+    <dificultad cocina="si" nivel="alto"/>    
+  </dificultad>
+</receta>
+
+<receta>
+    <nombre>tortitas</nombre>
+    <lugardeorigen>
+      <pais>mundial</pais>
+    </lugardeorigen>
+    <ingredientes>
+     <primer>Huevo</primer>
+     <segundo>harina</segundo>
+     <tercero>levadura </tercero>
+    </ingredientes>
+    <descripcion> 
+    mezclar la harina  con el huevo y luego freir</descripcion>
+    <dificultad>
+      <dificultad cocina="si" nivel="bajo"/>    
+    </dificultad>
+  </receta>
+
+</Recetas>
+  //receta[@dificultad='bajo']
